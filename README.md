@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazifatul-Fadhilah
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning Machine Learning with pyhtin
+- 👀 I’m interested in Data and Programming 
+- 🌱 I’m currently learning Machine Learning with pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
