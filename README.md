@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nazifatul-Fadhilah
 - 👀 I’m interested in Data and Web Programming 
 - 🌱 I’m currently learning Machine Learning with pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me fadhilahnazifatul@gmail.com
 
 <!---
 Nazifatul-Fadhilah/Nazifatul-Fadhilah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
